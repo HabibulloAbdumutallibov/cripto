@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+@layer components {
+    .bacc{
+        background-image: url('./assets/bacc.jpg');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
